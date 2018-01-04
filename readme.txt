@@ -4,4 +4,5 @@ git has a mutable index called stage.
 git tracks changes of files.
 added git to github.
 Creating a new branch is quick and simple.
+add a branch newDev.
 
